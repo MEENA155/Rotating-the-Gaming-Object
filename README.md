@@ -37,6 +37,7 @@ To add our C# Script file to our selected object, click on the C# Script file an
 Stop
 
 ## Program:
+```
 Register Number:212221240028
 Name:Meena S
 using System.Collections;
@@ -57,6 +58,7 @@ public class Program : MonoBehaviour
         transform.RotateAround(Vector3.up, Vector3.left, 40 * Time.deltaTime);
     }
 }
+```
 ## Output:
 ![v2](https://user-images.githubusercontent.com/94677128/226285155-ab419b53-23e6-4439-b29c-38f5d5390a6c.jpg)
 
